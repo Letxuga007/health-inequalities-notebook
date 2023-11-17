@@ -1,6 +1,5 @@
 This project is a collection of information and knowledge related to analytical work on "Health Inequalities", as performed in the NHS and the wider UK Health and Social Care sector.
 
-## Aim
 
 The aim of the project is to collect together information that is helpful and relevant to analysts doing work in this space. By doing this, the project will:
 
